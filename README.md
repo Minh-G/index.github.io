@@ -6,4 +6,4 @@
 
 #### Plus il y a de # et plus le titre est petit.
 
-Pour griser un mot ou une phrase le mettre entre ~...~ (caractère spécial ALT GR + é), comme dans la ~phrase~ qui suit, ~par exemple~.
+Pour barrer un mot ou une phrase le mettre entre (caractère spécial ALT GR + é), comme dans ~cette phrase qui suit, par exemple~.
