@@ -4,6 +4,6 @@
 
 ### Pour petit titre utiliser 3 hashtag
 
-#### Pour le test, 4 # en début de phrase.
+#### Plus il y a de # et plus le titre est petit.
 
 Pour griser un mot ou une phrase le mettre entre ~...~ (caractère spécial ALT GR + é), comme dans la ~phrase~ qui suit, ~par exemple~.
