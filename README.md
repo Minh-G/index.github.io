@@ -2,20 +2,36 @@
 
 ## Pour moyen titre utiliser 2 hashtag
 
-### Pour petit titre utiliser 3 hashtag
+###### Plus il y a de # et plus le titre est petit (6 hashtag au max).
 
-#### Plus il y a de # et plus le titre est petit (4 x #).
+### Encadrer ou mettre du code :
+entre (ALT GR + è), comme dans `cette phrase qui suit`, par `exemple`.
+```insérez du code```
 
-##### Plus il y a de # et plus le titre est petit (5 x #).
+### Mettre en gras :
+entre **, comme dans cette **phrase** qui suit, par exemple.
 
-###### Plus il y a de # et plus le titre est petit (6 x #).
+### Barrer :
+entre (ALT GR + é), comme dans ~cette phrase qui suit, par exemple~.
 
-Pour encadrer, mettre entre (caractère spécial ALT GR + è), comme dans `cette phrase qui suit, par exemple`.
+### Les listes :
+Liste non-ordonnée
+* Item n°1 
+* Item n°2 
+* Item n° 3
 
-Pour le gras, mettre entre **, comme dans cette **phrase** qui suit, par exemple.
+Liste ordonnée
+1. Item a 
+2. Item b
+3. item C
 
-Pour barrer, mettre entre (caractère spécial ALT GR + é), comme dans ~cette phrase qui suit, par exemple~.
+### Une citation :
+> mettre en début de phrase un chevron >
 
-#Pour faire des listes 
-
-*item *item *item
+### Faire un tableau :
+|Alignement à gauche|Centré  |Alignement à droite|
+|:-                 |:-:     |-:                 |
+|ce texte           |ce texte|ce texte           |
+|est                |est     |est                |
+|aligné à gauche    |centré  |aligné à droite    |
+|...                |...     |...                |
