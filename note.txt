@@ -1,3 +1,5 @@
 Liste de mes notes :
 
 - Ajouter le fichier README.md
+
+- Ajouter le fichier : .gitignore
