@@ -1,5 +1,5 @@
 Liste de mes notes :
 
 - Ajouter le fichier README.md
-
-- Ajouter le fichier : .gitignore
+- Création du fichier : .gitignore >>> exclusion de note.txt
+-> .gitignore ne fonctionne pas le fichier note.txt est toujours présent !
